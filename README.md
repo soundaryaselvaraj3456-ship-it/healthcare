@@ -50,3 +50,15 @@ This project demonstrates how synthetic healthcare data can be effectively analy
 
 <img width="764" height="620" alt="image" src="https://github.com/user-attachments/assets/75302b23-86d2-4c0e-8244-164bc1e0c7cb" />
 
+2.Pie chart image
+<img width="507" height="525" alt="image" src="https://github.com/user-attachments/assets/ee12fc1d-9add-46fa-a442-9600ad1af04b" />
+3.Histogram 
+<img width="723" height="570" alt="image" src="https://github.com/user-attachments/assets/0c7e79e5-e41e-44a4-b56c-5c747e8fbab5" />
+4.Scatter plot 
+<img width="699" height="545" alt="image" src="https://github.com/user-attachments/assets/bf713a5e-f645-4461-9631-dff83b33b9f6" />
+5.Bar plot 
+<img width="641" height="559" alt="image" src="https://github.com/user-attachments/assets/a6d1b82b-cfa0-41d6-b5c4-59e03a698ad4" />
+6.headmaps 
+<img width="754" height="658" alt="image" src="https://github.com/user-attachments/assets/e26b69ca-3403-4856-9655-480f09fc22da" />
+
+
