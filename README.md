@@ -47,3 +47,6 @@ Data Visualization Bar Charts Pie Charts Histograms Scatter Plots Box Plots Heat
 ** Conclusion**
 
 This project demonstrates how synthetic healthcare data can be effectively analyzed using Python to gain meaningful insights and support medical decisions.
+
+<img width="764" height="620" alt="image" src="https://github.com/user-attachments/assets/75302b23-86d2-4c0e-8244-164bc1e0c7cb" />
+
